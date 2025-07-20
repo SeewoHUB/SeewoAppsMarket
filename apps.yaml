@@ -1,10 +1,10 @@
-- title: 文本编辑器
-  description: 轻量级文本编辑工具
-  developer: DevTeam
-  github_url: https://github.com/devteam/editor
-  yaml_path: https://raw.githubusercontent.com/yourusername/app-market-repo/main/apps/editor.yaml
-  icon: https://raw.githubusercontent.com/yourusername/app-market-repo/main/icons/editor.png
-  version: 2.1.4
+- title: Classisland
+  description: .
+  developer: HelloWRC
+  github_url: https://github.com/classisland/classisland
+  yaml_path: https://raw.githubusercontent.com/SeewoHUB/SeewoAppsMarket/main/apps/ci.yaml
+  icon: https://raw.githubusercontent.com/classisland/classisland/main/logo.png
+  version: 1.7.0.1
 
 - title: 图片查看器
   description: 高性能图片浏览工具

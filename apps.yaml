@@ -5,7 +5,7 @@
   yaml_path: https://raw.githubusercontent.com/SeewoHUB/SeewoAppsMarket/main/apps/ci.yaml
   icon: https://raw.githubusercontent.com/classisland/classisland/main/logo.png
   version: 1.7.0.1
-  download_path: https://github.com/ClassIsland/ClassIsland/releases/download/latest/out_app_windows_x64_full_singleFile.zip
+  download_url: https://github.com/ClassIsland/ClassIsland/releases/download/latest/out_app_windows_x64_full_singleFile.zip
 
 - title: 图片查看器
   description: 高性能图片浏览工具
@@ -14,4 +14,4 @@
   yaml_path: https://raw.githubusercontent.com/yourusername/app-market-repo/main/apps/viewer.yaml
   icon: https://raw.githubusercontent.com/yourusername/app-market-repo/main/icons/viewer.png
   version: 1.0.2
-  download_path: https://github.com/ClassIsland/ClassIsland/releases/download/latest/out_app_windows_x64_full_singleFile.zip
+  download_url: https://github.com/ClassIsland/ClassIsland/releases/download/latest/out_app_windows_x64_full_singleFile.zip
